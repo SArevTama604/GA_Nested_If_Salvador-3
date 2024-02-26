@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GA_Nested_If_Salvador#3", "GA_Nested_If_Salvador#3.csproj", "{D1F21A89-51A2-436F-9C62-D6B06BD32C8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1F21A89-51A2-436F-9C62-D6B06BD32C8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1F21A89-51A2-436F-9C62-D6B06BD32C8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1F21A89-51A2-436F-9C62-D6B06BD32C8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1F21A89-51A2-436F-9C62-D6B06BD32C8F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C7E328E-0076-4750-8966-5E711484E854}
+	EndGlobalSection
+EndGlobal
